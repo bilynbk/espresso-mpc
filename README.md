@@ -1,6 +1,6 @@
 espresso-mpc
 ============
-
+Discussion: https://www.home-barista.com/espresso-machines/model-predictive-control-with-raspberry-pi-zero-t46351.html 
 A Raspberry Pi modification to the Rancilio Silvia Espresso Machine implementing model predictive temperature control. [Longer description](http://people.kth.se/~mandreas/post/espresso/)
 
 Features:
